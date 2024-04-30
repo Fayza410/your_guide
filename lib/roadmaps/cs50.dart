@@ -7,7 +7,7 @@ class CS50 extends StatefulWidget {
 }
 
 class _CS50State extends State<CS50> {
-  int _currentIndex=0;
+
 
   @override
   Widget build(BuildContext context) {

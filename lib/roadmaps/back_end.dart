@@ -11,7 +11,7 @@ class BackEnd extends StatelessWidget {
           title: Text('BackEnd',
             style: TextStyle(
               color:Color(0xff001842),
-              fontSize: 20,
+              fontSize: 30,
               fontFamily: 'Courgette',
 
             ),),
